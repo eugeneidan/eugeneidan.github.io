@@ -6,9 +6,9 @@ import { addProviders, async, inject } from '@angular/core/testing';
 import { TodoAppComponent } from './todo-app.component';
 import { TodoService } from '../todo.service';
 
-describe('Component: TodoApp', () => {
-  it('should create an instance', () => {
+// describe('Component: TodoApp', () => {
+  // it('should create an instance', () => {
     // let component = new TodoAppComponent();
     // expect(component).toBeTruthy();
-  });
-});
+  // });
+// });
